@@ -132,7 +132,7 @@ export const hobbies = {
     title: "Sport",
     description:
       "Course à pied et vélo au quotidien, je suis mes sorties sur Strava.",
-    stravaProfileUrl: "https://www.strava.com/athletes/REPLACE_WITH_ATHLETE_ID",
+    stravaProfileUrl: "https://www.strava.com/athletes/184875954",
   },
 };
 
